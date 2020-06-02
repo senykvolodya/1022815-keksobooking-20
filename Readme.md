@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Владимир Сеник](https://up.htmlacademy.ru/javascript/20/user/1022815).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Палян](https://htmlacademy.ru/profile/id1231107).
 
 ---
 
